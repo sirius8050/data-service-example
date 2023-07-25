@@ -1,5 +1,5 @@
 [
   {
-    "cluster_id": ${CLUSTER_ID}
+    "cluster_id": {your cluster ID}
   }
 ]
